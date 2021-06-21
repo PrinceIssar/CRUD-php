@@ -1,4 +1,4 @@
-# CRUD-php
+# CRUD-PHP
 Learn 
 - Create MySql record- Insert new record
 - Read - Reading MtSql records and display them in a HTML table
